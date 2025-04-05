@@ -26,3 +26,4 @@ public class facebookSeleniumFindElementBy_Test {
                 driver.findElement(By.cssSelector("input#email")).getTagName();
         System.out.println("\n===5==="+texte);}
 }
+//testing
